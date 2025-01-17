@@ -35,9 +35,6 @@ This project was my **first experience with Unity** and **C# programming**. Thro
 - **Node.js and Express**: Created a server to handle automated backups, expanding my backend development skills.
 
 ![Screenshot 1](Images/ss0.png)
-![Screenshot 2](Images/ss1.png)
-![Screenshot 3](Images/ss2.png)
-![Screenshot 4](Images/ss3.png)
 
 ---
 
