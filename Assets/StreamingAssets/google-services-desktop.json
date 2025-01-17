@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "559095938320",
+    "project_id": "idle-ec0c7",
+    "storage_bucket": "idle-ec0c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559095938320:android:95c0f5c7b73ebd31457995",
+        "android_client_info": {
+          "package_name": "com.company.littleHeroes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559095938320-msdkbehglk6sau2tgu8q05autub72qce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.littleHeroes",
+            "certificate_hash": "df5e93375af332b14cb3e5b509f192083f0e7b45"
+          }
+        },
+        {
+          "client_id": "559095938320-tdp24vgjsdjknlo7ebdoimghde68afit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.littleHeroes",
+            "certificate_hash": "eee212857c1014807fcbad4297ee65531c073632"
+          }
+        },
+        {
+          "client_id": "559095938320-02gbsdmec6tisj57nq10rvkuaestqa6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2lo-LKfrzU45QEFk1lYnY9smWs7_IGVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559095938320-02gbsdmec6tisj57nq10rvkuaestqa6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7877336133027826~7566683223"
+    }
+  ],
+  "configuration_version": "1"
+}
