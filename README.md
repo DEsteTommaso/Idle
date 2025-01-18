@@ -20,7 +20,7 @@ Idle Little Heroes Tycoon is a **2D idle game** that combines strategic gameplay
 - **📊 Integrated Technologies**:
   - **Firebase**: Used for database management and authentication (currently removed due to GitHub size constraints).
   - **Google Play Games**: Provides player login and leaderboard functionality.
-  - **Google AdMob & Unity Ads**: Implemented for in-game monetization through advertisements.
+  - **Google AdMob & Unity Ads**: Implemented for in-game monetization through advertisements. Added compliance with **GDPR** to ensure proper handling of user data and consent.
   - **Node.js with Express**: Developed a custom server using Node.js and Express to manage daily backups of game data on an Oracle database, running every 24 hours.
 
 ---
@@ -30,7 +30,7 @@ This project was my **first experience with Unity** and **C# programming**. Thro
 
 - **Unity Engine**: Built a complete game environment using 2D assets and tiles.
 - **Firebase Integration**: Configured authentication and real-time database functionality (later removed due to size limitations).
-- **Ad Integration**: Implemented ads using Google AdMob and Unity Ads.
+- **Ad Integration**: Implemented ads using Google AdMob and Unity Ads, ensuring compliance with GDPR requirements for user consent.
 - **C# Programming**: Developed object-oriented scripts to manage gameplay mechanics and interactions.
 - **Node.js and Express**: Created a server to handle automated backups, expanding my backend development skills.
 
@@ -51,6 +51,7 @@ While the game was initially functional, several issues have arisen over time:
 - **Unity Development**: Learned to create a functional 2D game using tiles and assets.
 - **C# Fundamentals**: Built a foundation in object-oriented programming and event-driven design.
 - **Third-Party Integration**: Successfully implemented Firebase, Google Play Games, and ad services.
+- **GDPR Compliance**: Gained knowledge about handling user consent and data privacy for ads.
 - **Node.js and Express**: Gained experience in backend development by creating a custom server for automated backups.
 - **Problem-Solving**: Overcame challenges with API integration and game mechanics.
 
